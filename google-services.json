@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "187435779470",
+    "firebase_url": "https://online-ui.firebaseio.com",
+    "project_id": "online-ui",
+    "storage_bucket": "online-ui.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:187435779470:android:ea500265315c4c7b7490df",
+        "android_client_info": {
+          "package_name": "com.purutaltechs.onlineui"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "187435779470-148h9gd4imliridh7lqkde6l9lbefu6c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3S01b0_SbaEft4kfefy8aN6ABCut2m3Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "187435779470-148h9gd4imliridh7lqkde6l9lbefu6c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
